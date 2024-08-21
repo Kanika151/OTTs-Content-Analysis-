@@ -3,7 +3,8 @@
 OTT Content Analysis 
 
 ### Dashboard Link : 
-![Dashboard_upload] (https://github.com/Kanika151/OTTs-Content-Analysis-/blob/main/Untitled.png)
+
+![Dashboard_upload](https://github.com/Kanika151/Projects/blob/main/Untitled.png)
 
 ## Problem Statement: 
 
